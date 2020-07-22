@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some idea about me
+Here are some stuff about me
 
 - 🔭 I’m currently working as Happy SysAdmin.
 - 🌱 I’m currently learning Linux in deep and networking.
